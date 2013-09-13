@@ -1,0 +1,14 @@
+{
+    "name": "atlas/base-mongo-active-record",
+    "description": "Separates model from query for mongodb active record",
+    "authors": [
+        {
+            "name": "atlas",
+            "email": "pha@atlassoftwaregroup.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
